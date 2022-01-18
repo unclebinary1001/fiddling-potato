@@ -1,0 +1,17 @@
+body {
+    background-color: teal;
+  }
+  
+  p {
+    font-family: arial;
+    font-size: 15px;
+    color: white;
+  }
+  
+  div {
+    background-color: white;
+    width: 400px;
+    color: black;
+    padding: 10;
+  }
+  
