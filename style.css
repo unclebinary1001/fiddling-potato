@@ -2,16 +2,24 @@ body {
     background-color: teal;
   }
   
-  p {
+p {
     font-family: arial;
     font-size: 15px;
     color: white;
-  }
+}
   
-  div {
+div {
     background-color: white;
     width: 400px;
     color: black;
     padding: 10;
-  }
-  
+}
+
+a{
+  color: rgb(0, 0, 0);
+  font-weight: bolder;
+}
+
+a:hover{
+  color: rgb(238, 43, 43);
+}
